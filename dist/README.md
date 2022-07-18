@@ -3,7 +3,7 @@
   
 ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
 ## Description
-🔍 a jolly good time
+🔍 This program allows a user to quickly generate a readme for a project through the use of node.js and inquirer.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,9 +13,9 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 use 'npm init' to begin then use 'npm i inquirer', after those are initialized you can run 'node index.js'
+💾 Run 'npm init' and 'npm i inquirer' to begin with and launch the program using 'node index.js'.
 ## Usage
-💻 users who would like to generate a readme
+💻 For users to quickly create a professional README for a new project.
 ## License
 ![badge](https://img.shields.io/badge/license-Academic-brightgreen)
 <br />
@@ -25,10 +25,10 @@ This application is covered by the Academic license.
 ## Tests
 ✏️ Yes
 ## Questions
-✋ Report it at github.com/nickjestes/make-your-own-readme/issues<br />
+✋ Report a new issue at "github.com/nickjestes/make-your-own-readme/issues".<br />
 <br />
 :octocat: Find me on GitHub: [nickjestes](https://github.com/nickjestes)<br />
 <br />
 ✉️ Email me with any questions: njestes221@gmail.com<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+_This README was generated with ❤️ by [make-your-own-readme](https://github.com/nickjestes/make-your-own-readme)_
     
