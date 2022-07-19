@@ -2,6 +2,9 @@
 
 URL: https://nickjestes.github.io/make-your-own-readme/
 
+DEMO VIDEO:
+https://user-images.githubusercontent.com/84655404/179863517-ad205178-b3d1-46e5-b10a-f7c3f0182b00.mp4
+
 AS A developer
 
 I WANT a README generator
@@ -29,3 +32,4 @@ Writing the code on this was just following the format provided on the inquirer 
 ## 📝 Personal Note
 
 Not sure why installing inquirer creates as many modules as it did, but I'm still glad that it's functional!
+
